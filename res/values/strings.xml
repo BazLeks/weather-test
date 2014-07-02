@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">android-weather-test</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_update">Update weather</string>
+
+</resources>
